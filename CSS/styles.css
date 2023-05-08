@@ -1,0 +1,63 @@
+body{
+    background-image: url(../HTML/Images/tile.jpg);
+}
+
+#title-img{
+    margin-top: 25px;
+}
+
+#myForm{
+    height: 168px;
+    width: 600px;
+    background-image: url(../HTML/Images/formbg.jpg);
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+#formInput1{
+    margin-left: 77px;
+    margin-top: 16px;
+    width: 523px;
+    height: 30px;
+    border-style: none;
+}
+
+#formInput2{
+    margin-left: 77px;
+    margin-top: 3px;
+    width: 172px;
+    height: 30px;
+    border-style: none;
+}
+
+#formInput3{
+    margin-left: 77px;
+    margin-top: 3px;
+    width: 133px;
+    height: 30px;
+    border-style: none;
+}
+
+#btnCreateNotes{
+    margin-left: 250px;
+    margin-top: 3px;
+    width: 90px;
+    height: 30px;
+    border-style: 1px solid black;
+}
+
+#btnReset{
+    margin-left: 3px;
+    margin-top: 3px;
+    width: 90px;
+    height: 30px;
+    border-style: 1px solid black;
+}
+
+#btnResetLocalStorage{
+    margin-left: 3px;
+    margin-top: 3px;
+    width: 150px;
+    height: 30px;
+    border-style: 1px solid black;
+}
